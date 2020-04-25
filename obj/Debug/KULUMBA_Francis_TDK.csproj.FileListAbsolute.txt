@@ -1,0 +1,6 @@
+C:\Users\kulum\OneDrive - De Vinci\Documents\A2\Algo\KULUMBA_Francis_TDK\ImageProcessor\bin\Debug\KULUMBA_Francis_TDK.exe.config
+C:\Users\kulum\OneDrive - De Vinci\Documents\A2\Algo\KULUMBA_Francis_TDK\ImageProcessor\bin\Debug\KULUMBA_Francis_TDK.exe
+C:\Users\kulum\OneDrive - De Vinci\Documents\A2\Algo\KULUMBA_Francis_TDK\ImageProcessor\bin\Debug\KULUMBA_Francis_TDK.pdb
+C:\Users\kulum\OneDrive - De Vinci\Documents\A2\Algo\KULUMBA_Francis_TDK\ImageProcessor\obj\Debug\KULUMBA_Francis_TDK.csprojAssemblyReference.cache
+C:\Users\kulum\OneDrive - De Vinci\Documents\A2\Algo\KULUMBA_Francis_TDK\ImageProcessor\obj\Debug\KULUMBA_Francis_TDK.exe
+C:\Users\kulum\OneDrive - De Vinci\Documents\A2\Algo\KULUMBA_Francis_TDK\ImageProcessor\obj\Debug\KULUMBA_Francis_TDK.pdb
